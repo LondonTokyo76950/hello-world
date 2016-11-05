@@ -1,2 +1,13 @@
 # hello-world
 First GitHub Repository, made for tutorial
+
+Hello, World
+
+This is a test:
+
+Test...
+Test...
+Test...
+Test...
+
+All OK
